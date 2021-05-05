@@ -19,3 +19,4 @@ dependencies:
   - folium
   - mplleaflet
   - bokeh
+  - xlrd
